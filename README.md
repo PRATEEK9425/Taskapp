@@ -1,7 +1,7 @@
 # Taskapp 
 This App is Basically used to manage Task and it also have option to update,delete and view More details .
 
-#Tech stack user
+# Tech stack user
 - React js
 - express
 - Mysql2

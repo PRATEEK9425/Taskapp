@@ -9,7 +9,8 @@ This App is Basically used to manage Task and it also have option to update,dele
 - React packages - React-router-dom,redux,react-redux ,redux-thunk 
 
 
-# Home Page 
+#  Home Page 
+
 ![Alltaskpage](https://github.com/PRATEEK9425/Taskapp/assets/105915891/f79db269-60e7-4e0e-8e79-2d0fc8c962a9)
 
 This Page bascially Tell all the atask that are available , from here user can delete ,update and delete any task .

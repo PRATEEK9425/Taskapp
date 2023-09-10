@@ -3,9 +3,10 @@ This App is Basically used to manage Task and it also have option to update, del
 
 # Tech stack used
 - React js
-- express
+- Express
 - Mysql2
 - Redux
+- NODE JS
 - React packages - React-router-dom,redux,react-redux ,redux-thunk 
 
 

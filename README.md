@@ -1,6 +1,8 @@
 # Taskapp 
 This App is Basically used to manage Task and it also have option to update, delete and view More details.
 
+# Deployed Link - https://my-app-nmpratik9425-gmailcom.vercel.app/
+
 # Tech stack used
 - React js
 - Express
